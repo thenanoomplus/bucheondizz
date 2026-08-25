@@ -1954,6 +1954,16 @@ ul, ol {
     gap: 12px;
   }
 
+  .hero-feature-item {
+    justify-content: center;
+    text-align: left;
+  }
+
+  #diagnostics .section-title {
+    white-space: nowrap;
+    font-size: clamp(1.05rem, 5.6vw, 1.6rem);
+  }
+
   .checklist-wrapper {
     padding: 28px 20px;
   }
